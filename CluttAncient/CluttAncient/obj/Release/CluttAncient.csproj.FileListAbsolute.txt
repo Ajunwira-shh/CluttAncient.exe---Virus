@@ -1,0 +1,11 @@
+E:\CluttAncient\CluttAncient\bin\Release\CluttAncient.exe.config
+E:\CluttAncient\CluttAncient\bin\Release\CluttAncient.exe
+E:\CluttAncient\CluttAncient\bin\Release\CluttAncient.pdb
+E:\CluttAncient\CluttAncient\obj\Release\CluttAncient.csproj.AssemblyReference.cache
+E:\CluttAncient\CluttAncient\obj\Release\CluttAncient.Form1.resources
+E:\CluttAncient\CluttAncient\obj\Release\CluttAncient.Properties.Resources.resources
+E:\CluttAncient\CluttAncient\obj\Release\CluttAncient.csproj.GenerateResource.cache
+E:\CluttAncient\CluttAncient\obj\Release\CluttAncient.csproj.CoreCompileInputs.cache
+E:\CluttAncient\CluttAncient\obj\Release\CluttAncient.exe
+E:\CluttAncient\CluttAncient\obj\Release\CluttAncient.pdb
+E:\CluttAncient\CluttAncient\obj\Release\CluttAncient.exe.config
