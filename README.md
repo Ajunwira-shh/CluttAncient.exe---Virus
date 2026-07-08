@@ -6,3 +6,7 @@ This is a virus that i created in C#. You need .NET Framework 4.7.2 to run this 
 # NOTE
 I recommend to run this malware on Windows 8>
 Please run this on an isolated VM's!
+
+# NOTE: NO LONGER UPDATED! 
+this malware is no longer updated because i'm focus to my new malware! 
+stay tuned
